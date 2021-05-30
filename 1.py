@@ -1,7 +1,7 @@
 #
 print('hello world!')
 
-age = 10
+age = 15
 print("我今年%d岁"%age)
 
 age = 24
